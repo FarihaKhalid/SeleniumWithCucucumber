@@ -26,7 +26,7 @@ public class Hook extends BaseUtil{
 
         System.out.println("Opening the browser : Firefox");
 
-        /*System.setProperty("webdriver.firefox.marionette", "D:\\Libs\\geckodriver.exe");
+        /*System.setProperty("webdriver.firefox.marionette", "/home/fariha/fariha/CNC/Build Deploy Test with jenkins/chromedriver_linux64");
         base.Driver = new FirefoxDriver();*/
 
 
